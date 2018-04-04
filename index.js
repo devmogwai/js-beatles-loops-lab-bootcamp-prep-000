@@ -19,6 +19,5 @@ function iLoveTheBeatles (number) {
   var array = []
   do {
     
-  } while {
-}
+  } while ()
 }
